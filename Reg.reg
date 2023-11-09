@@ -35,7 +35,7 @@ Windows Registry Editor Version 5.00
 
 ; disable pointer acceleration
 [HKEY_CURRENT_USER\Control Panel\Mouse]
-"MouseSensitivity"="4"
+"MouseSensitivity"="10"
 "MouseSpeed"="0"
 "MouseThreshold1"="0"
 "MouseThreshold2"="0"
